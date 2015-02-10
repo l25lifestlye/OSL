@@ -1,47 +1,81 @@
 ![Simple Form Logo](https://raw.github.com/plataformatec/simple_form/master/simple_form.png)
 
-By [Plataformatec](http://plataformatec.com.br/).
+By [OSL](http://bit.ly/OpenSourceLIfeFB).
 
-Rails forms made easy.
 
-**Simple Form** aims to be as flexible as possible while helping you with powerful components to create
-your forms. The basic goal of **Simple Form** is to not touch your way of defining the layout, letting
-you find the better design for your eyes. Most of the DSL was inherited from Formtastic,
-which we are thankful for and should make you feel right at home.
 
-INFO: This README is [also available in a friendly navigable format](http://simple-form.plataformatec.com.br/)
-and refers to **Simple Form** 3.1. For older releases, check the related branch for your version.
+**Open Source Life** destina-se a criação de uma blibioteca de conteúdo essencial para o ser que o deter, terá conhecimento de métodos eficazes de contrução e evolução, para até o momento de evolução do presente repositório. Repositório que passara por algumas alterações em seu curso, mas apenas aprimoramento de metodos que já eram extremamentes eficazes.
 
-## Installation
+## Conhecendo a blibioteca
 
-Add it to your Gemfile:
+Rode a blibioteca em qualquer computador utilizando seu auto compitlador. (***multi-plataforma***)
 
-```ruby
-gem 'simple_form'
+```c
+run 'auto-load.c'
 ```
-
-Run the following command to install it:
 
 ```console
-bundle install
+#### HELP INTRO #####
+INITIAL INFORMATION
+
+DIGITE: LOAD ***SCENE NUMBER***
+
+Nossa blibioteca esta iniciada e deve-se escolher qual senário abrir.
+Abaixo inicia-se o readme de cada senário, sendo senário (0) Zero, o explicativo.
 ```
 
-Run the generator:
+Neste momento você poderá rolar como scrool para cima e para baixo para visualizar toda a blibioteca. 
+Esta situação simula apenas 1 humano com 1 dispositivo para lê-la. Apelidado como (***Bíblia do Ser Evolutivo***).
 
 ```console
-rails generate simple_form:install
-```
-
-Also, if you want to use the country select, you will need the
-[country_select gem](https://rubygems.org/gems/country_select), add it to your Gemfile:
-
-```ruby
-gem 'country_select'
+.... Agurandando seleção de senário do indíce. Senário ____ <- Digite de 0 a 99 e presione enter/enviar/executar.
 ```
 
 ### Bootstrap
 
-**Simple Form** can be easily integrated to the [Bootstrap](http://getbootstrap.com/).
+**OSL** pode ser considerado um tutorial. No qual é encarado que toda sua visualização pode estar sendo a primeira. Deste modo a explicação a seguir, irá compor uma vasta lista de afazeres baseado em propósitos. Desde construções, engenharias, robótica, filosofia, arte e cultura. De forma sequência e evolutiva para ser interpretada pelo raciocínio humano.
+
+Em nossa blibioteca ou arca, possuímos ferramentas básicas e completas para cada senário ou situação.
+
+A primeira situação, ou situação zero. Seria de que você necessitasse de um computador para ler e comprender, a subsequente seria de que você possa construir um computador e também imprimir aquilo que possui nele, no caso, esta blibioteca. 
+
+Consideramos este senário como 2, aquele no qual é necessário desenvolver um dispositivo que leia códigos "C" e mostre de forma visual ou impressa os dados visualizados ou processados após alguma  coleta de pesquisa.
+
+Partindo deste ponto, talvez você precise aprender algumas informações antes de comprar ou escolher os componentes para o equipamento que está a montar.
+Agora que começamos a palpar esta blibioteca. Neste caso, criamos a pasta de repositórios para facilitar a arvore de arquivos.
+
+Dentro desta pasta repositório, você irá ter os materiais de estudo científico para construção ou desenvolvimento de cada área, para evitar excesso, consideramos que tudo aquilo que não é necessário para o último senário, não seria importante nesta biblioteca, mas que fosse possível fornecer uma fonte secundária de repositórios ([Wikipédia](http://pt.wikipedia.org/)).
+
+Agora iremos apresentar o último senário, aquele no qual o mais evolutivo possuímos diante da biblioteca OSL.
+
+### Senário 0 ::
+Quando deter do conhecimento e ferramentas explicadas e criadas, poderá executar as seguintes tarefas:
+- Atribuir funções/missões/operações para seus robôs subordinádos. 
+- Construir edificeis e maquinas necessárias para sua existência e conforto.
+- Ser capaz de se locomover pelo universo.
+- Se proteger dos perigos e radiaçôes do universo.
+- Produzir de forma autorobotizado seus alimentos e utensílios domésticos.
+- Reproduzir conteúdos de estudo e evolução em cima de arte,cultura,história dos últimos anos de dados coletados.
+
+Nesta etapa está diante do arquiteto de universo, com conhecimento e informação suficiente para qualquer exploração espacial ou expandimento de civilizações ou tribos em quaisquer lugares. 
+
+Desenhe, apenas isto que nos resta. E viva. Se necessário desenhe sonhos.
+
+Cada senário possui seus requísitos. Acesse a pasta /senários/0/requisitos.md
+Este arquivo contem o indíce de todas as páginas necessárias a ser lida para evoluir até o senário 0. 
+
+Mas aquilo que precisamos aprender nos  senários secundários são desdobamento do pico da evolução para o contexto real que se encontrar.
+Talvez você não precise criar uma impressora, mas precisamos assegurar que seja possível, mas talvez não seja necessário sua leitura. Desta forma, a biblioteca foca em trazer toda coletânea de conteúdo evolutivo, mas de forma a apresentar somente se necessário, e nada mais útil que manter guardado para qualquer necessidade. 
+
+```console
+Thanks You
+```
+
+#### Expondo contextos ou senários secundários
+
+Senário 1 - Preservar a vida e produzir alimentação
+Senário 2 - 
+
 To do that you have to use the `bootstrap` option in the install generator, like this:
 
 ```console
